@@ -1,0 +1,55 @@
+.caja1{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    display: block;
+}
+
+.caja2{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    display: block;    
+}
+
+.caja3{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    display: inline-block;
+    margin-top: 50px;
+}
+
+.caja4{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.caja5{
+    height: 200px;
+    width: 200px;
+    background-color: goldenrod;
+    position: relative;
+    left: 20px;
+    bottom: 20px;
+}
+
+.goku{
+    height: 600px;
+    width: 600px;
+    background-color: orangered;
+    position: relative;
+}
+
+.gohan{
+    height: 200px;
+    width: 200px;
+    background-color: greenyellow;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
