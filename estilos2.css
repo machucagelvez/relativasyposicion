@@ -1,0 +1,37 @@
+.padre{
+    max-width: 800px;
+    width: 70%;
+    padding: 2.5em;
+    border: black solid 2px;
+    margin: 1.25em auto;
+    font-size: 16px;
+    background-color: darkred;
+}
+
+.titulos{
+    color: white;
+    font-size: 1.875em;
+    padding: 3.125em;
+}
+
+.parrafos{
+    color: white;
+    font-size: 1.5em;
+    padding: 3.125em;
+}
+
+@media screen and (max-width: 720px){
+    .padre{
+        background-color: green;
+    }
+
+    .titulos{
+        color: blue;
+    }
+}
+
+@media screen and (max-width: 1000px){
+    .padre{
+        background-color: darkkhaki
+    }
+}
